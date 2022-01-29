@@ -1,1 +1,0 @@
-# problem-definition-coin-collecting
